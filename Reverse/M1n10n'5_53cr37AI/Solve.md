@@ -1,4 +1,4 @@
-###Solve
+
 
 # Linux Commands
 apktool d filename.apk , the d option provides for you decompiling the .apk file , the b makes the oppsite
