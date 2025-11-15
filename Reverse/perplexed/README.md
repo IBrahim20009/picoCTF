@@ -122,16 +122,3 @@ Decoded: "your_final_password"
 * Bit-level tracing is crucial in reversing obfuscated checks.
 * When bit 0 is never written, the algorithm is likely using **7-bit ASCII packing**.
 * Reconstructing the bitstream and repacking it solves the challenge.
-
----
-
-## 📦 Want Improvements?
-
-I can add:
-
-* A diagram of the bit flow
-* A simplified solver script
-* A GitHub-style project structure
-* Beginner-friendly explanations
-
-Just tell me: **"Add more detail"** or **"Add diagrams"**.
