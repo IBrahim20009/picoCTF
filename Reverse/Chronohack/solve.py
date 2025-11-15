@@ -83,7 +83,7 @@ def connect_and_guess(start_seed_index, seeds, offsets, Ts, host, port, token_le
 def main():
     # Server details
     HOST = "verbal-sleep.picoctf.net"
-    PORT = 51826 #Change the port HERE
+    PORT = 65505 #Change the port HERE
     token_length = 20
     max_attempts = 50
     range_start_ms = -50  # Start at Ts - 50 ms

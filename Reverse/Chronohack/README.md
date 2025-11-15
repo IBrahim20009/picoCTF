@@ -109,8 +109,4 @@ picoCTF-token-challenge/
 
 ---
 
-If you'd like, I can:
-✔ Convert this into a full GitHub repo structure
-✔ Add diagrams or timing charts
-✔ Add syntax‑highlighted code blocks
-✔ Add a `requirements.txt` or setup instructions
+
