@@ -69,9 +69,4 @@ picoCTF{1t_w4sn7_h4rd_unr4v3l1n9_th3_m0b1l3_c0d3}
 
 ---
 
-If you'd like, I can:
 
-* Add images/screenshots
-* Expand explanations of APK structure
-* Add a section on using JADX or MobSF
-* Format this as a GitHub project template
